@@ -1,0 +1,17 @@
+[
+  { "de": "schreiben",     "tr": "yazmak",           "oku": "şraybın" },
+  { "de": "das Fenster",   "tr": "Pencere",          "oku": "das fensta" },
+  { "de": "groß",          "tr": "Büyük",            "oku": "gros" },
+  { "de": "laufen",        "tr": "koşmak/yürümek",   "oku": "laufın" },
+  { "de": "die Tür",       "tr": "Kapı",             "oku": "di tür" },
+  { "de": "der Bleistift", "tr": "Kurşun Kalem",     "oku": "der blayştift" },
+  { "de": "warm",          "tr": "Ilık",             "oku": "varm" },
+  { "de": "sprechen",      "tr": "konuşmak",         "oku": "şprehın" },
+  { "de": "das Handy",     "tr": "Cep telefonu",     "oku": "das handi" },
+  { "de": "hören",         "tr": "duymak/dinlemek",  "oku": "hörın" },
+  { "de": "die Uhr",       "tr": "Saat",             "oku": "uuar" },
+  { "de": "klein",         "tr": "Küçük",            "oku": "klayn" },
+  { "de": "die Tasche",    "tr": "Çanta",            "oku": "di taşe" },
+  { "de": "der Stift",     "tr": "Kalem",            "oku": "ştift" },
+  { "de": "schnell",       "tr": "Hızlı",            "oku": "şnel" }
+]
