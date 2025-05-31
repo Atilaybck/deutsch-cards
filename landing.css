@@ -8,11 +8,7 @@ body {
 /* Üstteki butonlar */
 #reset,
 #unlearnedBtn,
-#page1Btn,
-#page2Btn,
-#page3Btn,
-#page4Btn,
-#page5Btn {
+.pageBtn {
   background: #3b82f6;
   color: #fff;
   border: none;
@@ -23,7 +19,7 @@ body {
   margin: 0 8px 10px 0;
 }
 
-/* Sıfırla ve Ezberlenmemiş özel rengi */
+/* Sıfırla ve Ezberlenmemiş özel renkleri */
 #reset {
   background: #ef4444;
 }
@@ -32,12 +28,12 @@ body {
   background: #f59e0b;
 }
 
-/* Aktif buton vurgusu */
+/* Aktif buton */
 button.active {
   background-color: #1d4ed8 !important;
 }
 
-/* Sayfa tamamen bitmişse (✔ veya ✘ ile işaretlenmişse) mor renk */
+/* Sayfa tamamen bitmişse mor renk */
 button.completed {
   background-color: #9333ea !important;
 }
