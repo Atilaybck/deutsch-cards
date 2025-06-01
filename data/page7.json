@@ -1,0 +1,17 @@
+[
+  { "de": "der Hunger", "tr": "Açlık", "oku": "hunga" },
+  { "de": "das Ei", "tr": "Yumurta", "oku": "Ay" },
+  { "de": "der Saft", "tr": "Meyve Suyu", "oku": "zaft" },
+  { "de": "bringen", "tr": "getirmek", "oku": "bringen" },
+  { "de": "das Salz", "tr": "Tuz", "oku": "das zalts" },
+  { "de": "die Butter", "tr": "Tereyağı", "oku": "di butır" },
+  { "de": "der Käse", "tr": "Peynir", "oku": "Der Keezı" },
+  { "de": "treffen", "tr": "buluşmak / karşılaşmak", "oku": "trefın" },
+  { "de": "verlieren", "tr": "kaybetmek", "oku": "ferliğrın" },
+  { "de": "waschen", "tr": "yıkamak", "oku": "varşın" },
+  { "de": "antworten", "tr": "cevap vermek", "oku": "antwortın" },
+  { "de": "erzählen", "tr": "anlatmak", "oku": "ertseğlın" },
+  { "de": "suchen", "tr": "aramak", "oku": "zuhın" },
+  { "de": "gewinnen", "tr": "kazanmak", "oku": "gevinnın" },
+  { "de": "brauchen", "tr": "ihtiyaç duymak", "oku": "brauhın" }
+]

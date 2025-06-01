@@ -1,0 +1,17 @@
+[
+  { "de": "rot", "tr": "Kırmızı", "oku": "rot" },
+  { "de": "grün", "tr": "Yeşil", "oku": "griyün" },
+  { "de": "reparieren", "tr": "tamir etmek", "oku": "riparihın" },
+  { "de": "das Fahrrad", "tr": "Bisiklet", "oku": "das faahrat" },
+  { "de": "schwarz", "tr": "Siyah", "oku": "şvartz" },
+  { "de": "weiß", "tr": "Beyaz", "oku": "vays" },
+  { "de": "der Spiegel", "tr": "Ayna", "oku": "der şpiigıl" },
+  { "de": "springen", "tr": "zıplamak", "oku": "şpringın" },
+  { "de": "der Fuß", "tr": "Ayak", "oku": "der fus" },
+  { "de": "der Kopf", "tr": "Baş", "oku": "der kopf" },
+  { "de": "die Hand", "tr": "El", "oku": "di hant" },
+  { "de": "die Wand", "tr": "Duvar", "oku": "di vant" },
+  { "de": "leise", "tr": "sessiz", "oku": "layzı" },
+  { "de": "tanzen", "tr": "dans etmek", "oku": "tentzın" },
+  { "de": "die Rechnung", "tr": "fatura / hesap", "oku": "di rehnung" }
+]
