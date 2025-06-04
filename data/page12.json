@@ -1,0 +1,23 @@
+[
+  {
+    "de": "kompliziert",
+    "tr": "karmaşık / zor",
+    "oku": "komplitsiğrt",
+    "ornek": "Die Aufgabe ist kompliziert.",
+    "ceviri": "Görev karmaşık."
+  },
+  {
+    "de": "der Termin",
+    "tr": "randevu / görüşme zamanı",
+    "oku": "der termin",
+    "ornek": "Ich habe einen Termin beim Arzt.",
+    "ceviri": "Doktorda bir randevum var."
+  },
+  {
+    "de": "vorbereiten",
+    "tr": "hazırlamak",
+    "oku": "forberaytın",
+    "ornek": "Ich bereite das Essen vor.",
+    "ceviri": "Yemeği hazırlıyorum."
+  }
+]
