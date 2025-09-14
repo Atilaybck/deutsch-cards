@@ -1,20 +1,77 @@
 [
-  { "de": "das Klassenzimmer", "tr": "Sınıf", "oku": "das klasenzimmır" },
-  { "de": "das Heft", "tr": "Defter", "oku": "das heft" },
-  { "de": "der Kugelschreiber", "tr": "Tükenmez kalem", "oku": "der kugelşraybır" },
-  { "de": "das Lineal", "tr": "Cetvel", "oku": "das lineal" },
-  { "de": "erklären", "tr": "Açıklamak", "oku": "erkleğrın" },
-  { "de": "korrigieren", "tr": "Düzeltmek", "oku": "korigiğrın" },
-  { "de": "zeichnen", "tr": "Çizmek", "oku": "tsayhının" },
-  { "de": "der Radiergummi", "tr": "Silgi", "oku": "der radiyergumi" },
-  { "de": "nervös", "tr": "Gergin / Heyecanlı", "oku": "nervöz" },
-  { "de": "der Fehler", "tr": "Hata", "oku": "der feylır" },
-  { "de": "üben", "tr": "Alıştırma / pratik yapmak", "oku": "übın" },
-  { "de": "bestehen", "tr": "Başarmak / Geçmek", "oku": "beşteğın" },
-  { "de": "die Note", "tr": "Not", "oku": "di note" },
-  { "de": "der Alltag", "tr": "Günlük yaşam", "oku": "der alttak" },
-  { "de": "sich erinnern", "tr": "Hatırlamak", "oku": "zih erinırn" }
-]    
-
-
-
+  {
+    "de": "das Klassenzimmer",
+    "tr": "Sınıf",
+    "oku": "das klasenzimmır"
+  },
+  {
+    "de": "das Heft",
+    "tr": "Defter",
+    "oku": "das heft"
+  },
+  {
+    "de": "der Kugelschreiber",
+    "tr": "Tükenmez kalem",
+    "oku": "der kugelşraybır"
+  },
+  {
+    "de": "das Lineal",
+    "tr": "Cetvel",
+    "oku": "das lineal"
+  },
+  {
+    "de": "erklären",
+    "tr": "Açıklamak",
+    "oku": "erkleğrın"
+  },
+  {
+    "de": "korrigieren",
+    "tr": "Düzeltmek",
+    "oku": "korigiğrın"
+  },
+  {
+    "de": "zeichnen",
+    "tr": "Çizmek",
+    "oku": "tsayhnın"
+  },
+  {
+    "de": "der Radiergummi",
+    "tr": "Silgi",
+    "oku": "der radiyergumi"
+  },
+  {
+    "de": "nervös",
+    "tr": "Gergin / Heyecanlı",
+    "oku": "nervöz"
+  },
+  {
+    "de": "der Fehler",
+    "tr": "Hata",
+    "oku": "der feylır"
+  },
+  {
+    "de": "üben",
+    "tr": "Alıştırma/pratik yapmak",
+    "oku": "übın"
+  },
+  {
+    "de": "bestehen",
+    "tr": "Başarmak / Geçmek",
+    "oku": "beşteğin"
+  },
+  {
+    "de": "die Note",
+    "tr": "Not",
+    "oku": "di note"
+  },
+  {
+    "de": "der Alltag",
+    "tr": "Günlük yaşam",
+    "oku": "der alttak"
+  },
+  {
+    "de": "sich erinnern",
+    "tr": "Hatırlamak",
+    "oku": "zih erınırn"
+  }
+]
